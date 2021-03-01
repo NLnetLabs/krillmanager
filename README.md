@@ -6,5 +6,5 @@ Layered infrastructure as code for running Krill as a
 highly available scalable service with integration points
 for monitoring and log analysis. 
 
-Doumentation is available in the
+Documentation is available in the
 [wiki](https://github.com/NLnetLabs/krillmanager/wiki).
